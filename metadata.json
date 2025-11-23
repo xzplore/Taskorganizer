@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Task Organizer",
+  "description": "An application for students to log their daily tasks. It marks uncompleted tasks in red at the end of the day and calculates a productivity percentage based on completed versus uncompleted tasks.",
+  "requestFramePermissions": []
+}
